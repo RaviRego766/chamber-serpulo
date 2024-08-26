@@ -27,6 +27,6 @@
     "category": "crafting",
     "research": "kiln",
     "requirements": [
-      "copper/320",
+      "copper/320"
     ],
       }
