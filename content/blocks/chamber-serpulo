@@ -1,0 +1,32 @@
+{
+    "name": "Chamber Serpulo",
+    "description": "lmao",
+    "type": "GenericCrafter",
+    "health": 880,
+    "squareSprite": false,
+    "consumes": {
+        "power": 12,
+    },
+    "outputLiquids": [
+      "water/0.35",
+      "slag/0.4"
+    ],
+    "liquidOutputDirections": [
+      2
+    ],
+    "regionRotated1": 2,
+    "rotate": true,
+    "invertFlip": true,
+    "size": 3,
+    "hasPower": true,
+    "hasItems": false,
+    "hasLiquids": true,
+    "liquidCapacity": 180,
+    "craftTime": 60,
+    "updateEffect": "pulverize",
+    "category": "crafting",
+    "research": "kiln",
+    "requirements": [
+      "copper/320",
+    ],
+      }
