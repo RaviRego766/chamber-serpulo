@@ -1,8 +1,8 @@
 {
     "name": "chamber-s",
-    "displayName": " Chamber Serpulo Mod",
+    "displayName": "Chamber Serpulo Mod",
     "author": "Ravi",
-    "description": "Added to Chamber Serpulo",
+    "description": "Adds to Chamber Serpulo",
     "version": "1.0"
     "minGameVersion": 136
     "hidden": false
